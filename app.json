@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "shelfieapp",
+    "name": "react-native-tutorials",
+    "slug": "react-native-tutorials",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9eb6abc-54b6-4d5b-a20b-75d9c4df33b7"
+      }
+    },
+    "owner": "andrewp06"
+  }
+}
